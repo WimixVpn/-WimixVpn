@@ -1,6 +1,0 @@
-#profile-update-interval: 1
-#profile-title: Disabled 🚫
-#support-url: https://raw.githubusercontent.com/WimixVpn/-WimixVpn/refs/heads/main/WimixVPN
-#announce: Disabled 🚫
-#subscription-userinfo: upload=0; download=0; total=0; expire=2055555502
-vless://f030c8e9-5062-47fb-889f-5b9a8dcc4ab7@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9A%AB+Subscription+disabled
